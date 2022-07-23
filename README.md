@@ -1,7 +1,9 @@
+[![Linkedin Badge](https://img.shields.io/badge/-TasinNahian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tasin-nahian-9964bb223/)](https://www.linkedin.com/in/tasin-nahian-9964bb223/)
+[![Gmail Badge](https://img.shields.io/badge/-tasin.nahian@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tasin.nahian@gmail.com)](mailto:tasin.nahian@gmail.com)
+
 ### Hi there 👋
 
-<!--
-**TasinNahian/TasinNahian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
