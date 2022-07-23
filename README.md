@@ -23,3 +23,12 @@ I am Tasin Al Nahian Khan from Dhaka, Bangladesh. I am a passionate and hardwork
 - 🤔 I’m looking for help with a job
 - 📫 How to reach me: **Email/LinkedIn**
 - 😄 Pronouns: He/Him
+
+##
+
+<h3 align="left">Online Judge Profile:</h3>
+
+<a href="https://codeforces.com/give_your_profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="shining_flash" height="24" width="30" /></a>
+<a href="https://www.leetcode.com/give_your_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shiningflash" height="24" width="30" /></a> 
+<a href="https://www.hackerrank.com/give_your_profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shiningflash" height="24" width="30" /></a> 
+<a href="https://www.codechef.com/users/give_your_profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shiningflash_" height="24" width="30" /></a> </p>
