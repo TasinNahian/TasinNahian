@@ -10,7 +10,7 @@ I am **Tasin Al Nahian Khan** from **Dhaka, Bangladesh**. I am a passionate and 
 - Great **problem solving skills**
 - Experienced and skilled in **Algorithms and Data Structures**
 - Participated in **Programming Contest**
-- Loves to take on new challenges and solving the
+- Loves to take on new challenges and solving problems.
 - Team player
 
 ## 👨‍💻 Technologies
