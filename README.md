@@ -16,9 +16,9 @@ I am **Tasin Al Nahian Khan** from **Dhaka, Bangladesh**. I am a passionate and 
 ## 👨‍💻 Technologies
 #### Working on:
 - Frontend development using **HTML5, CSS3, Bootstrap5, JavaScript**
-- Backend technology using **Java (JSP, Servlet),  Django, Node js, Express js.**
+- Backend technology using **Java (JSP, Servlet),  Django.**
 - Language expertise on **Python, Java, JavaScript.**
-- **Relational Database Management Systems** using MySQL, PostgreSQL, MongoDB.
+- **Relational Database Management Systems** using MySQL.
 ##
 - 🤔 I’m looking for help with a job
 - 📫 How to reach me: **Email/LinkedIn**
